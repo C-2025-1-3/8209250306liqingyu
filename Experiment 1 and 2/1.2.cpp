@@ -3,9 +3,9 @@ using namespace std;
 int main()
 {
 	double pi = 3.14, r, h;
-	cout << "ÇëÊäÈëÔ²×¶µÄµ×Ãæ°ë¾¶ºÍ¸ß£º" << endl;
+	cout << "è¯·è¾“å…¥åœ†é”¥çš„åº•é¢åŠå¾„å’Œé«˜ï¼š" << endl;
 	cin >> r >> h;
 	double v = pi * r * r * h / 3;
-	cout <<"¸ÃÔ²×¶µÄÌå»ýÎª£º"<< v << endl;
+	cout <<"è¯¥åœ†é”¥çš„ä½“ç§¯ä¸ºï¼š"<< v << endl;
 	return 0;
 } 
