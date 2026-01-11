@@ -2,11 +2,11 @@
 using namespace std;
 int main()
 {
-	int k=0;//k未定义 未初始化
+	int k=0;//k脦麓露篓脪氓 脦麓鲁玫脢录禄炉
 	int i = k + 1;
 	cout << i++ << endl;
-	i = 1;//i重定义
+	i = 1;//i脰脴露篓脪氓
 	cout << i++ << endl;
-	cout<<"Welcome to C++!"<<endl; //缺少右引号
+	cout<<"Welcome to C++!"<<endl; //脠卤脡脵脫脪脪媒潞脜
 	return 0;
 }
